@@ -1,0 +1,21 @@
+NEWS SOURCE: Example Tantalon News
+DATE: [Publication date]
+HEADLINE: [Your headline]
+AUTHOR: John Dillion's
+
+[Insert your image or video here]
+[Caption and image/video credit]
+
+[Paragraph 1: WHO is involved? WHAT happened? WHEN did it happen? WHERE did it happen? WHY did it happen or why does it matter?]
+
+[Paragraph 2: Background and more details about the event.]
+
+"[Interview quote 1]" — [Speaker name], [expertise or connection to the story]
+
+[Paragraph 3: The impact on people or the community.]
+
+"[Interview quote 2]" — [Speaker name], [expertise or connection to the story]
+
+"[Interview quote 3 — optional]" — [Speaker name], [expertise or connection to the story]
+
+[Paragraph 4: What happens next, a response, or a memorable final detail.]

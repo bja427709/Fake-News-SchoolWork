@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Example Tantalon News</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="project-note">Fictional newspaper · A school project</div>
+    <header class="masthead">
+      <p class="location">Tantalon, Nova Scotia, Canada</p>
+      <a class="brand" id="source" href="./">Example Tantalon News</a>
+      <p class="tagline">Local stories. A little imagination.</p>
+    </header>
+    <main>
+      <div class="section-bar">
+        <span>Community</span><span>School edition</span>
+      </div>
+      <article aria-busy="true" id="article">
+        <p class="eyebrow">Around Tantalon</p>
+        <h1 id="headline">Loading today's story…</h1>
+        <div class="byline">
+          <span id="author"></span><span id="date"></span>
+        </div>
+        <figure id="media" hidden>
+          <div id="media-content"></div>
+          <figcaption id="caption"></figcaption>
+        </figure>
+        <div id="body" class="article-body" aria-live="polite"></div>
+      </article>
+    </main>
+    <footer>
+      Example Tantalon News · Fictional content created for school.
+    </footer>
+  </body>
+</html>
