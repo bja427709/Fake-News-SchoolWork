@@ -1,7 +1,7 @@
 Title: ***Local Park Bench Claimed by Extremely Assertive Goose as Private Property***
 Date:  May 27, 2023
 Author: Jacks, Bond
-Source: Example Tantalon News
+Source: Fake -***FHCS***- News
 Image: goose.png
 ImageAlt: A goose standing on a wooden park bench beside the water with its beak open.
 Video:
@@ -17,5 +17,5 @@ fter hearing what happend some people didnt want to use the benches nearby incas
 
 > Interview 2 — [***Alicia Rafuse***], I was just at the park running around, I look over as a hear a scream and a see a girl (***Abby***) running from a park bench with a Goose on it.
 
-> Interview 3 — [***Maci Rimersma***], I got a call from a girl named ***Alicia*** saying something about a goose protecting a park bench. I was so confused until I got there and saw it myself. I went in with my cage attemptiong to remove the goose for the safty of everyone, but soon after i got attacked by it and we had to let it be.
+> Interview 3 — [***Maci Rimersma***], I got a call from a girl named ***Alicia*** saying something about a goose protecting a park bench. I was so confused until I got there and saw it myself. I went in with my cage attempting to remove the goose for the safty of everyone, but soon after I got attacked by it and we had to let it be.
 By the next morning the Goose was gone and people could finally sit on the parkbench again. Nobody knew where it went but I dont think ***Abby*** will be taking any chances. She checked behind the bench before sitting down and kept an eye on the water the whole time.
